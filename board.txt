@@ -1,0 +1,22 @@
+variant=raspberry-pi2
+description=Raspberry Pi 2
+group=Raspberry
+platform=linux
+board=_BOARD_RASPBERRY_PI2_
+board.flags=
+bootloader=
+ccflags=ffff
+build.core=linux
+build.variant=raspberry-pi2
+family=linux
+version=0.1
+revision=7
+core=linux
+name=raspberry-pi2
+
+icon.128=icons/pi128.png
+icon.64=icons/pi64.png
+icon.48=icons/pi48.png
+icon.32=icons/pi32.png
+icon.22=icons/pi22.png
+icon.16=icons/pi16.png

@@ -1,0 +1,36 @@
+chipkit-lenny (1.0.5) uecide; urgency=low
+
+  * Added updated 40MHz bootloader
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 8 Apr 2016 17:30:50 +0100
+
+chipkit-lenny (1.0.4) uecide; urgency=low
+
+  * Couple of tweaks plus 40MHz default
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 8 Apr 2016 17:29:58 +0100
+
+chipkit-lenny (1.0.3) uecide; urgency=low
+
+  * Updated for MX270
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 22 Mar 2016 19:52:35 +0000
+
+chipkit-lenny (1.0.2) uecide; urgency=low
+
+  * Fixed analog configuration
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 22 Feb 2016 12:28:32 +0000
+
+chipkit-lenny (1.0.1) uecide; urgency=low
+
+  * Fixed missing family
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 8 Feb 2016 21:35:17 +0000
+
+chipkit-lenny (1.0.0) uecide; urgency=low
+
+  * Initial Import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 4 Jan 2016 12:01:04 +0000
+
